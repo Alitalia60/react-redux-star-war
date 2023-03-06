@@ -27,3 +27,7 @@
   object-position: top center;
   border-radius: var(--border-raduis-small) var(--border-raduis-small) 0 0;
 }
+
+.nav__title {
+  color: azure;
+}

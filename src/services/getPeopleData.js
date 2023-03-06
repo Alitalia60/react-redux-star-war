@@ -1,4 +1,4 @@
-import { SWAPI_PEOPLE, SWAPI_ROOT, HTTPS, GUIDE_IMG_EXTENSION, URL_IMG_PEOPLE } from '../constants/api'
+import { SWAPI_PEOPLE, SWAPI_ROOT, HTTPS, GUIDE_IMG_EXTENSION, URL_IMG_PEOPLE } from '@constants/api'
 
 export const getId = (url, category) => {
   const id = url
